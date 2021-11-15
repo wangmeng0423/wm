@@ -29,6 +29,7 @@ public class Main4 {
             System.out.println(str);
         }else {
             System.out.println(str.reverse());
+            System.out.println("www");
         }
     }
 }
